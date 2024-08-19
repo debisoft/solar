@@ -1,0 +1,2 @@
+# solar
+AI Week Hackathon
